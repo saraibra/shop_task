@@ -1,6 +1,11 @@
 # shop_task
 
 A new Flutter project.
+# video
+
+
+https://github.com/user-attachments/assets/2fdff99b-a70c-4bc3-b625-098e0640e463
+
 
 ## Getting Started
 
